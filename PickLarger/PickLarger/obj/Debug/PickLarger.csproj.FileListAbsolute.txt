@@ -1,0 +1,10 @@
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\bin\Debug\PickLarger.exe.config
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\bin\Debug\PickLarger.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\bin\Debug\PickLarger.pdb
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.Form1.resources
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.Properties.Resources.resources
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.csproj.GenerateResource.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.csproj.CoreCompileInputs.cache
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.exe
+F:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #7\PickLarger\PickLarger\obj\Debug\PickLarger.pdb
